@@ -5,4 +5,4 @@
 <App />
 
 <br />
-<a href="/reactive-declarations">next</a>
+<a href="/">home</a>

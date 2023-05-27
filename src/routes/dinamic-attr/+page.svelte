@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	let src = 'https://svelte.dev/tutorial/image.gif';
 	let name = 'Rick Astley';
 </script>
