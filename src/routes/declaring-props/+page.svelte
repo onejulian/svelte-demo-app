@@ -5,4 +5,4 @@
 <App />
 
 <br />
-<a href="/declaring-props">next</a>
+<a href="/">home</a>
